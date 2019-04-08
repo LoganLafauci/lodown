@@ -1,0 +1,27 @@
+{
+  "name": "lodown-logan9lafauci",
+  "version": "1.0.0",
+  "description": "lodown and dirty",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "istanbul cover _mocha -- test/ -R spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LoganLafauci/lodown.git"
+  },
+  "keywords": [
+    "operation",
+    "spark",
+    "lowdown"
+  ],
+  "author": "Logan Lafauci",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LoganLafauci/lodown/issues"
+  },
+  "homepage": "https://github.com/LoganLafauci/lodown#readme"
+}
